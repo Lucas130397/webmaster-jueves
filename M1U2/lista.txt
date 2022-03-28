@@ -4,3 +4,4 @@ frutillas
 galletitas
 cuadernos
 libros
+carpetas
