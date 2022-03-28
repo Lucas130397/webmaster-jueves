@@ -1,0 +1,64 @@
+title{
+    color: red;
+    background-color: white;
+    text-transform: uppercase;
+}
+
+h1{
+    color: red;
+    background-color: white;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    text-align: center;
+    border: dashed;
+    
+}
+
+h2{
+    color: red;
+    background-color: white;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique; 
+    text-align: center;
+}
+
+h3{
+    color: red;
+    background-color: white;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+ul{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    border: dashed;
+    text-align: center; 
+}
+
+ol{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    border: dashed;
+    text-align: center;
+}
+
+img{
+    margin: auto;
+    display: block;
+    border: dashed;
+}
