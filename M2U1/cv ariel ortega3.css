@@ -1,0 +1,78 @@
+title{
+    color: black;
+    background-color: white;
+    text-transform: uppercase;
+
+}
+
+h1{
+    color: black;
+    background: #ff0000;
+background: linear-gradient(270deg,#ff0000 0%, #ffffff 80%);
+background: -webkit-linear-gradient(270deg,#ff0000 0%, #ffffff 80%);
+background: -moz-linear-gradient(270deg,#ff0000 0%, #ffffff 80%);;
+    text-transform: uppercase;
+    text-shadow: 4px 4px 3px rgba(255,255,255,0.6);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    text-align: center;
+    border: 4px dashed #000000;
+    font-family: 'Oxanium', cursive;
+    
+}
+
+h2{
+    color: black;
+    background-color: white;
+    text-transform: uppercase;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.6);
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Oxanium', cursive;
+}
+
+p{
+    color: white;
+    background-color: black;
+    font-style: oblique; 
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+
+h3{
+    color: black;
+    background-color: white;
+    text-transform: uppercase;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.6);
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Oxanium', cursive;
+}
+
+ul{
+    color: black;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.6);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    border: dashed;
+    text-align: center; 
+    font-family: 'Oxanium', cursive;
+}
+
+ol{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    border: dashed;
+    text-align: center;
+    
+}
+
+img{
+    margin: auto;
+    display: block;
+    border: dashed;
+    box-shadow: 0px 0px 25px red;
+}
