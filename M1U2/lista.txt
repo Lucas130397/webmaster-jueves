@@ -1,7 +1,3 @@
 banana
 naranjas
 frutillas
-galletitas
-cuadernos
-libros
-carpetas
